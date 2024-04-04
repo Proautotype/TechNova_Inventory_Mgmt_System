@@ -1,2 +1,1 @@
 # TechNova_Inventory_Mgmt_System
-# TechNova_Inventory_Mgmt_System
