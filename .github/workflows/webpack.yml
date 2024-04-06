@@ -32,6 +32,7 @@ jobs:
       uses: codecov/codecov-action@v4
       with:
         token: ${{secrets.CODE_COV}}
+        slug: Proautotype/TechNova_Inventory_Mgmt_System
 
     - name: Build
       run: npm run build
