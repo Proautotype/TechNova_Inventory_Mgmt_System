@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/TechNova_Inventory_Mgmt_System/static/css/main.f855e6bc.css",
-    "main.js": "/TechNova_Inventory_Mgmt_System/static/js/main.0cfa2784.js",
+    "main.js": "/TechNova_Inventory_Mgmt_System/static/js/main.17eecfc2.js",
     "static/js/453.6a5c0bc7.chunk.js": "/TechNova_Inventory_Mgmt_System/static/js/453.6a5c0bc7.chunk.js",
-    "static/media/logo.svg": "/TechNova_Inventory_Mgmt_System/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TechNova_Inventory_Mgmt_System/index.html",
     "main.f855e6bc.css.map": "/TechNova_Inventory_Mgmt_System/static/css/main.f855e6bc.css.map",
-    "main.0cfa2784.js.map": "/TechNova_Inventory_Mgmt_System/static/js/main.0cfa2784.js.map",
+    "main.17eecfc2.js.map": "/TechNova_Inventory_Mgmt_System/static/js/main.17eecfc2.js.map",
     "453.6a5c0bc7.chunk.js.map": "/TechNova_Inventory_Mgmt_System/static/js/453.6a5c0bc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0cfa2784.js"
+    "static/js/main.17eecfc2.js"
   ]
 }
