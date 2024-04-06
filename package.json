@@ -1,6 +1,6 @@
 {
   "homepage": "https://Proautotype.github.io/TechNova_Inventory_Mgmt_System",
-  "name": "frontend",
+  "name": "ims-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
