@@ -3,13 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {createHashRouter, HashRouter, RouterProvider} from 'react-router-dom'
+import {routerHashObject} from "./route.config";
+
+const hashRouter = createHashRouter(routerHashObject);
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={hashRouter}/>
   </React.StrictMode>
 );
 
